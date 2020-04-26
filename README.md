@@ -30,9 +30,9 @@ The project is an offline recognition system developed to identify either printe
 8.Adding picture to voice 
 
 ## Objectives and goals
-1)To properly pre-process the image to get best outcomes
-2)To Split  the image into lines and characters
-3)To correlate the image characters with the dataset characters
-4)To try removing any spelling errors due to converting image to text
-5)To integrate system audio to read out the text
-6)Improve the post processing to get better outputs
+To properly pre-process the image to get best outcomes
+To Split  the image into lines and characters
+To correlate the image characters with the dataset characters
+To try removing any spelling errors due to converting image to text
+To integrate system audio to read out the text
+Improve the post processing to get better outputs
