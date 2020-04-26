@@ -1,0 +1,4 @@
+This is the fiFst dine Of
+this teXt eXample$
+This is the seCOmd line
+Ofthe same teXt$
